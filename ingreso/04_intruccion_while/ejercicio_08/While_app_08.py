@@ -1,0 +1,74 @@
+import tkinter
+from tkinter.messagebox import showinfo as alert
+from tkinter.messagebox import askyesno as question
+from tkinter.simpledialog import askstring as prompt
+import customtkinter
+
+'''
+while 8
+Nombre:Juan Manuel
+Apellido:Fernadez
+Enunciado:
+Al presionar el botón ‘Comenzar ingreso’, solicitar mediante prompt todos los números que el usuario quiera, 
+hasta que presione el botón Cancelar (en el prompt) o el usuario ingrese cero. 
+Calcular la suma acumulada de los positivos y multiplicar los negativos. 
+Luego informar los resultados en las cajas de texto txt_suma_acumulada y txt_producto
+
+'''
+
+class App(customtkinter.CTk):
+    
+    def __init__(self):
+        super().__init__()
+
+        # configure window
+        self.title("UTN FRA")
+        
+        self.txt_suma_acumulada = customtkinter.CTkEntry(master=self, placeholder_text="Suma acumulada")
+        self.txt_suma_acumulada.grid(row=0, padx=20, pady=20)
+
+        self.txt_producto = customtkinter.CTkEntry(master=self, placeholder_text="Producto")
+        self.txt_producto.grid(row=1, padx=20, pady=20)
+
+        self.btn_mostrar = customtkinter.CTkButton(master=self, text="Comenzar Ingreso", command=self.btn_comenzar_ingreso_on_click)
+        self.btn_mostrar.grid(row=2, padx=20, pady=20, columnspan=2, sticky="nsew")
+
+
+    def btn_comenzar_ingreso_on_click(self):
+        contador = 1
+        numero = 0
+        while True:         
+            numeros_ingresados = prompt(title="utn",prompt="ingrese los numeros")
+            numeros_ingresados = int(numeros_ingresados)
+            if numeros_ingresados == None or numeros_ingresados == 0:
+                break
+            
+            elif numeros_ingresados > 0 :
+                numero = numero + numeros_ingresados
+            else:
+                contador = numeros_ingresados * contador
+        
+        self.txt_suma_acumulada.delete(0,10000)
+        self.txt_suma_acumulada.insert(0,numero)
+        #contador = 1
+        #numero = 0
+        #while True:         
+            #numeros_ingresados = prompt(title="utn",prompt="ingrese los numeros")
+            #if numeros_ingresados != None and numeros_ingresados != "0" :
+                #numeros_ingresados = int(numeros_ingresados)
+                #if numeros_ingresados > 0 :
+                #   numero = numero + numeros_ingresados
+                #else:
+                 #   contador = numeros_ingresados * contador
+            #else:
+            #   break
+            
+        #self.txt_suma_acumulada.delete(0,10000)
+        #self.txt_suma_acumulada.insert(0,numero)    
+        pass
+
+    
+if __name__ == "__main__":
+    app = App()
+    app.geometry("300x300")
+    app.mainloop()
