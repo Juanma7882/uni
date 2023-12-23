@@ -1,0 +1,24 @@
+{
+  "jugadores": [
+    {
+      "nombre": "d",
+      "puntos": 15400
+    },
+    {
+      "nombre": "x",
+      "puntos": 13600
+    },
+    {
+      "nombre": "d",
+      "puntos": 9300
+    },
+    {
+      "nombre": "juan",
+      "puntos": 7800
+    },
+    {
+      "nombre": "f",
+      "puntos": 7000
+    }
+  ]
+}
