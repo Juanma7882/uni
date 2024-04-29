@@ -11,7 +11,7 @@ class Top5Screen:
         self.screen = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("TOP 5")
 
-        self.background_image = pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\menu_de_inicio.png").convert()
+        self.background_image = pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\menu_de_inicio.png").convert()
         self.background_image = pygame.transform.scale(self.background_image, (self.width, self.height))
 
         self.font = pygame.font.Font(None, 36)
@@ -23,9 +23,9 @@ class Top5Screen:
     def mostrar_top5(self):
         nombres = []
         puntos = []
-        font_path = r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
+        font_path = r"cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
 
-        datos = leer_datos_jugadores(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
+        datos = leer_datos_jugadores(r"cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
         for i, jugador in enumerate(datos):
             nombre = jugador.get('nombre', 'Nombre no proporcionado')
             punto = jugador.get('puntos', 0)

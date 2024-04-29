@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\centraltelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\centraltelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\centraltelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\ejercicio_6_4.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\ejercicio_6_4.csproj|solutionrelative:ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "llamada.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\llamada.cs",
+              "RelativeDocumentMoniker": "CentralTelefonica\\llamada.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\llamada.cs",
+              "RelativeToolTip": "CentralTelefonica\\llamada.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:17:27.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "centralita.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\centralita.cs",
+              "RelativeDocumentMoniker": "CentralTelefonica\\centralita.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\centralita.cs",
+              "RelativeToolTip": "CentralTelefonica\\centralita.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:19:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\ejercicio_6_4\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_6_4\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\ejercicio_6_4\\Program.cs",
+              "RelativeToolTip": "ejercicio_6_4\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:14:11.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\local.cs",
+              "RelativeDocumentMoniker": "CentralTelefonica\\local.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\local.cs",
+              "RelativeToolTip": "CentralTelefonica\\local.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:19:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "provincial.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\provincial.cs",
+              "RelativeDocumentMoniker": "CentralTelefonica\\provincial.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_4\\CentralTelefonica\\provincial.cs",
+              "RelativeToolTip": "CentralTelefonica\\provincial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:19:16.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

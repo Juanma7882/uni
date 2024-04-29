@@ -7,7 +7,7 @@ class Nivel3:
     def __init__(self):
         self.ancho_screen = 984
         self.largo_screen = 630
-        self.fondo_nivel = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel3.jpg"
+        self.fondo_nivel = r"cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel3.jpg"
         self.nivel = Nivel(self.ancho_screen, self.largo_screen, 60, 45, self.fondo_nivel,2)
         self.sprite_nave_enemigo = pygame.sprite.Group()
         self.sprite_nave_enemigo_disparo = pygame.sprite.Group()
@@ -28,7 +28,7 @@ class Nivel3:
             self.sprite_nave_enemigo.add(nave_enemiga)
 
         for i in range(self.cantidad_meteoritos):
-            meti = meterorito(self.ancho_screen, self.largo_screen)
+            meti = Meterorito(self.ancho_screen, self.largo_screen)
             self.sprite_meteorito.add(meti)
 
         boss = Enemigo_boss(self.ancho_screen, self.largo_screen, self.sprite_boss_disparo)
@@ -73,7 +73,7 @@ class Nivel3:
 
             cantidad_de_meteoritos = len(self.sprite_meteorito)
             if cantidad_de_meteoritos < self.cantidad_meteoritos:
-                meti = meterorito(self.ancho_screen, self.largo_screen)
+                meti = Meterorito(self.ancho_screen, self.largo_screen)
                 self.sprite_meteorito.add(meti)
 
             if self.nivel.nave.puntos > self.nivel.puntos or self.nivel.nave.puntos < self.nivel.puntos:

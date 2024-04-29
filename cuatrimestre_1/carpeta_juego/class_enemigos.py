@@ -12,7 +12,7 @@ from funciones import ajustes_de_volumen
 
 class Enemigo(pygame.sprite.Sprite):
     # Manejo de rutas de archivos
-    image_path = r"Curso_de_ingreso_PYTHON-main/ejercicios/cuatrimestre_1/carpeta_juego/imagenes/enemigos/enemigo_peque.png"
+    image_path = r"cuatrimestre_1/carpeta_juego/imagenes/enemigos/enemigo_peque.png"
     original_image = pygame.image.load(image_path)
     
     def __init__(self,ancho_screen,largo_screen,grupo_disparo):
@@ -79,7 +79,7 @@ class Meterorito(pygame.sprite.Sprite):
     los meteroritos son infinitos y si se destruye uno se crea otro su movieminto varia y pueden caer en difrentes direcciones
     """
     # Manejo de rutas de archivos
-    image_path = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\enemigos\meterorito  2.jpg"
+    image_path = r"cuatrimestre_1\carpeta_juego\imagenes\enemigos\meterorito  2.jpg"
     original_image = pygame.image.load(image_path)
 
     # Rotar la imagen en 90 grados
@@ -126,7 +126,7 @@ class Meterorito(pygame.sprite.Sprite):
 
 class Enemigo_boss(pygame.sprite.Sprite):
     # Manejo de rutas de archivos
-    image_path = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\enemigos\nave_madre.png"
+    image_path = r"cuatrimestre_1\carpeta_juego\imagenes\enemigos\nave_madre.png"
     original_image = pygame.image.load(image_path)
     rotated_image = pygame.transform.rotate(original_image, -90)
     

@@ -8,7 +8,8 @@ class Nivel1:
     def __init__(self):
         self.ancho_screen = 984
         self.largo_screen = 640
-        self.fondo_nivel = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel1.jpg"
+        
+        self.fondo_nivel = r"cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel1.jpg"
         self.nivel = Nivel(self.ancho_screen, self.largo_screen, 60, 45, self.fondo_nivel,0)
         self.sprite_nave_enemigo = pygame.sprite.Group()
         self.cantidad_enemigos = 12
@@ -19,11 +20,11 @@ class Nivel1:
 
         musica_de_fondo(primer_nivel_musica,musica_volumen)
 
-        mostrar_texto("sobrevive", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
-        mostrar_texto("los 3 niveles", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
-        mostrar_texto("hasta que el tiempo se agote", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
-        mostrar_texto("evita perder las 3 vidas", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
-        mostrar_texto("nivel 1 ", self.ancho_screen // 2 -10, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
+        # mostrar_texto("sobrevive", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
+        # mostrar_texto("los 3 niveles", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
+        # mostrar_texto("hasta que el tiempo se agote", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
+        # mostrar_texto("evita perder las 3 vidas", self.ancho_screen // 2 -30, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
+        # mostrar_texto("nivel 1 ", self.ancho_screen // 2 -10, self.largo_screen // 2, 3000,self.fondo_nivel,self.ancho_screen,self.largo_screen)
         
         for i in range(self.cantidad_enemigos):
             meti = Meterorito(self.ancho_screen, self.largo_screen)

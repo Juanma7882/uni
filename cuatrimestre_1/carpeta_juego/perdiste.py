@@ -11,7 +11,7 @@ class perdiste:
         self.screen = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("TOP 5")
 
-        self.background_image = pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\perdiste.jpg").convert()
+        self.background_image = pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\perdiste.jpg").convert()
         self.background_image = pygame.transform.scale(self.background_image, (self.width, self.height))
 
         self.font = pygame.font.Font(None, 36)
@@ -22,7 +22,7 @@ class perdiste:
 
     def iniciar(self):
         
-        for i in leer_json(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\mini.json"):
+        for i in leer_json(r"cuatrimestre_1\carpeta_juego\mini.json"):
             nombre_actual = i["nombre"]
             puntos_jugador = i["puntos"]
         tamaño = len(nombre_actual)
@@ -33,9 +33,9 @@ class perdiste:
 
         nombres = []
         puntos = []
-        font_path = r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
+        font_path = r"cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
 
-        datos = leer_datos_jugadores(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
+        datos = leer_datos_jugadores(r"cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
         for i, jugador in enumerate(datos):
             nombre = jugador.get('nombre', 'Nombre no proporcionado')
             punto = jugador.get('puntos', 0)
@@ -46,7 +46,7 @@ class perdiste:
         nombre1, nombre2, nombre3, nombre4, nombre5 = nombres[:5]
         puntos1, puntos2, puntos3, puntos4, puntos5 = puntos[:5]
         run = True
-        # mostrar_texto("perdiste", self.width // 2 -30, self.height // 2, 3000,r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\perdiste.jpg",self.width,self.height)
+        # mostrar_texto("perdiste", self.width // 2 -30, self.height // 2, 3000,r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\perdiste.jpg",self.width,self.height)
         while run:
 
             self.screen.blit(self.background_image, (0, 0))

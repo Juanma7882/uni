@@ -15,7 +15,7 @@ largo_screen = 640
 screen = pygame.display.set_mode((ancho_screen, largo_screen))
 pygame.display.set_caption("Mi Juego")
 
-direccion_de_la_imagen = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\iniciomod.png"
+direccion_de_la_imagen = r"cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\iniciomod.png"
 # Carga la imagen del fondo
 fondo = pygame.image.load(direccion_de_la_imagen)
 # Escala la imagen para que coincida con las dimensiones de la ventana
@@ -23,12 +23,12 @@ fondo = pygame.transform.scale(fondo, (ancho_screen, largo_screen))
 clock = pygame.time.Clock()
 
 # Fuentes/font_title
-fuente_titulo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\4\airstrikehalf.ttf"
+fuente_titulo = r"cuatrimestre_1\carpeta_juego\fuentes\4\airstrikehalf.ttf"
 fuente = pygame.font.Font(fuente_titulo, 60)  #titulo
 texto = " space INVADERS"#invaders
 
 
-font_path = r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
+font_path = r"cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
 # fuente_nombre = pygame.font.Font(font_path,35) #texto ingreasado
 nombre_del_jugador = ""
 color= "green"
@@ -36,7 +36,7 @@ color= "green"
 puntos = 0
 nivel_actual = 6
 running = True
-for i in leer_json(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"):
+for i in leer_json(r"cuatrimestre_1\carpeta_juego\volumen.json"):
     musica_volumen = float(i["volumen"])
     print(musica_volumen)
 musica_de_fondo(pantalla_de_inicio_musica,musica_volumen)
@@ -74,7 +74,7 @@ while running:
                     nivel_actual = top5_screen.mostrar_top5()
 
                 if ((ancho_screen // 2) - 60) <= mouse_x <= ((ancho_screen // 2) + 45) and 350 <= mouse_y <= 395:
-                    nombre_archivo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"
+                    nombre_archivo = r"cuatrimestre_1\carpeta_juego\volumen.json"
                     datos = {}
                     datos["volumen"] = 0.7
                     archivos = []
@@ -90,7 +90,7 @@ while running:
                 if ((ancho_screen // 2) - 60) <= mouse_x <= ((ancho_screen // 2) + 45) and 400 <= mouse_y <= 445:
                     if color == "green":
                         color = "red"
-                        nombre_archivo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"
+                        nombre_archivo = r"cuatrimestre_1\carpeta_juego\volumen.json"
                         datos = {}
                         datos["volumen"] = 0
                         archivos = []
@@ -100,13 +100,13 @@ while running:
 
                     elif color == "red":
                         color = "green"
-                        nombre_archivo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"
+                        nombre_archivo = r"cuatrimestre_1\carpeta_juego\volumen.json"
                         datos = {}
                         datos["volumen"] = 0.7
                         archivos = []
                         archivos.append(datos)
                         escribir_json(nombre_archivo, archivos)
-                        for i in leer_json(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"):
+                        for i in leer_json(r"cuatrimestre_1\carpeta_juego\volumen.json"):
                             musica_volumen = float(i["volumen"])
                         musica_de_fondo(pantalla_de_inicio_musica,musica_volumen)
                     
@@ -147,7 +147,7 @@ while running:
 
         if nivel_actual == -1:
             #PERDISTE
-            nombre_archivo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\mini.json"
+            nombre_archivo = r"cuatrimestre_1\carpeta_juego\mini.json"
             datos = {}
             datos["nombre"] = nombre_del_jugador
             datos["puntos"] = puntos
@@ -161,7 +161,7 @@ while running:
 
         if nivel_actual == 3:
             #GANASTE
-            nombre_archivo = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\mini.json"
+            nombre_archivo = r"cuatrimestre_1\carpeta_juego\mini.json"
             datos = {}
             datos["nombre"] = nombre_del_jugador
             datos["puntos"] = puntos 

@@ -59,7 +59,7 @@ class Nivel:
 
 
         # Fuentes/font_title
-        fuente_titulo =  r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
+        fuente_titulo =  r"cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
         self.fuente = pygame.font.Font(fuente_titulo, 30)  #fuente de texto contador y puntos
 
         # Coordenadas iniciales del cuadradito
@@ -91,7 +91,7 @@ class Nivel:
 
 
     
-        imagen_pausa_path = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\boton.jpg"
+        imagen_pausa_path = r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\boton.jpg"
         imagen_pausa = pygame.image.load(imagen_pausa_path)
         
         # Escalar la imagen a las dimensiones deseadas (100x100)

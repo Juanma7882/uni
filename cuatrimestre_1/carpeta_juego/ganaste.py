@@ -11,7 +11,7 @@ class Ganaste:
         self.screen = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("TOP 5")
 
-        self.background_image = pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg").convert()
+        self.background_image = pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg").convert()
         self.background_image = pygame.transform.scale(self.background_image, (self.width, self.height))
 
         self.font = pygame.font.Font(None, 36)
@@ -22,7 +22,7 @@ class Ganaste:
 
     def iniciar(self):
         
-        for i in leer_json("Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\mini.json"):
+        for i in leer_json("cuatrimestre_1\carpeta_juego\mini.json"):
             nombre_actual = i["nombre"]
             puntos_jugador = i["puntos"]
         tamaño = len(nombre_actual)
@@ -30,9 +30,9 @@ class Ganaste:
 
         nombres = []
         puntos = []
-        font_path = r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
+        font_path = r"cuatrimestre_1\carpeta_juego\fuentes\5\DS-DIGI.TTF"
 
-        datos = leer_datos_jugadores(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
+        datos = leer_datos_jugadores(r"cuatrimestre_1\carpeta_juego\dati os_jugadores.json")
         for i, jugador in enumerate(datos):
             nombre = jugador.get('nombre', 'Nombre no proporcionado')
             punto = jugador.get('puntos', 0)
@@ -44,8 +44,8 @@ class Ganaste:
         puntos1, puntos2, puntos3, puntos4, puntos5 = puntos[:5]
         run = True
         musica_de_fondo(pantalla_de_inicio_musica,0.5)
-        mostrar_texto("Felicitaciones ", self.width // 2 -30, self.height // 2, 3000,r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg",self.width,self.height)
-        mostrar_texto("ganaste ", self.width // 2 -30, self.height // 2, 3000,r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg",self.width,self.height)
+        mostrar_texto("Felicitaciones ", self.width // 2 -30, self.height // 2, 3000,r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg",self.width,self.height)
+        mostrar_texto("ganaste ", self.width // 2 -30, self.height // 2, 3000,r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\sistema_solar_desde_la_naturaleza_by_elimiu_deqs9k1-414w-2x.jpg",self.width,self.height)
         
         while run:
 

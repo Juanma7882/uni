@@ -1,0 +1,12 @@
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.AssemblyInfoInputs.cache
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.AssemblyInfo.cs
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.sourcelink.json
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\bin\Debug\net8.0\biblioteca_4_2.deps.json
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\bin\Debug\net8.0\biblioteca_4_2.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\bin\Debug\net8.0\biblioteca_4_2.pdb
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\refint\biblioteca_4_2.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\biblioteca_4_2.pdb
+C:\Users\juan\Desktop\uni\cuatrimestre_2\4_clase\ejercicio_4_2\biblioteca_4_2\obj\Debug\net8.0\ref\biblioteca_4_2.dll

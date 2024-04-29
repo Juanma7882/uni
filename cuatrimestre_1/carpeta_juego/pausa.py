@@ -11,7 +11,7 @@ class Pausa:
         self.screen = pygame.display.set_mode((self.width, self.height))
         pygame.display.set_caption("TOP 5")
 
-        self.background_image = pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\pausa.jpg").convert()
+        self.background_image = pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\otras_img\pausa.jpg").convert()
         self.background_image = pygame.transform.scale(self.background_image, (self.width, self.height))
         self.configuracion = -2
         self.nivel = nivel

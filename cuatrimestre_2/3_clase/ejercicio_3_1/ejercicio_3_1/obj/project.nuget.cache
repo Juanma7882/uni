@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwwERHp+Br2Og9HaXNA7kd3dEgCPUTaLpANse/KWFOalYztJNS6igSDNI5/zetKyKHGFajuo3GGt7Ph6oPsbpA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\3_clase\\ejercio_3_1\\ejercicio_3_1\\ejerci_1_3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se encuentra información del proyecto para \"C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\3_clase\\ejercio_3_1\\biblioteca_1\\biblioteca_1.csproj\". Si está usando Visual Studio, puede deberse a que el proyecto no se haya cargado o no forme parte de la solución actual, por lo que debe ejecutar una restauración desde la línea de comandos. De lo contrario, puede que el archivo del proyecto no sea válido o que falten destinos necesarios para la restauración.",
+      "libraryId": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\3_clase\\ejercio_3_1\\biblioteca_1\\biblioteca_1.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

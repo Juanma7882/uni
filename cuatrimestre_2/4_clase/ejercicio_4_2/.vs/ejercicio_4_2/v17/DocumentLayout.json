@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|solutionrelative:biblioteca_4_2\\euro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053ABD7D-3A9F-42BD-ABE1-ACBE53452F10}|ejercicio_4_2\\ejercicio_4_2.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\ejercicio_4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053ABD7D-3A9F-42BD-ABE1-ACBE53452F10}|ejercicio_4_2\\ejercicio_4_2.csproj|solutionrelative:ejercicio_4_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|solutionrelative:biblioteca_4_2\\peso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F686E221-62AA-4940-811E-AE49319CCB25}|biblioteca_4_2\\biblioteca_4_2.csproj|solutionrelative:biblioteca_4_2\\dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Euro.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Euro.cs",
+              "RelativeDocumentMoniker": "biblioteca_4_2\\Euro.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Euro.cs",
+              "RelativeToolTip": "biblioteca_4_2\\Euro.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:57:38.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Peso.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Peso.cs",
+              "RelativeDocumentMoniker": "biblioteca_4_2\\Peso.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Peso.cs",
+              "RelativeToolTip": "biblioteca_4_2\\Peso.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:57:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dolar.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
+              "RelativeDocumentMoniker": "biblioteca_4_2\\Dolar.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
+              "RelativeToolTip": "biblioteca_4_2\\Dolar.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:55:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\ejercicio_4_2\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_4_2\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\ejercicio_4_2\\Program.cs",
+              "RelativeToolTip": "ejercicio_4_2\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:54:44.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

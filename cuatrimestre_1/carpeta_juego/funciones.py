@@ -5,7 +5,7 @@ import os
 pygame.init()
 
 def ajustes_de_volumen():
-    for i in leer_json(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\volumen.json"):
+    for i in leer_json(r"cuatrimestre_1\carpeta_juego\volumen.json"):
         musica_volumen = float(i["volumen"])
         return musica_volumen
     
@@ -50,12 +50,14 @@ def sonido_inicial(musica_inicial,volumen):
 
 
 
-corazones = [pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\objetos\vida.png")]
+# corazones = [pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\objetos\vida.png")]
+corazones = [pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\objetos\vida.png")]
+
 
 #personaje
-personaje_quieto  = [pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png")]
-personaje_desplazamiento = [pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png"),
-                        pygame.image.load(r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png") ]
+personaje_quieto  = [pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png")]
+personaje_desplazamiento = [pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png"),
+                        pygame.image.load(r"cuatrimestre_1\carpeta_juego\imagenes\nave\nave.png") ]
 personaje_derecha = rotar_imagen(personaje_desplazamiento,-90)
 personaje_izquierda = rotar_imagen(personaje_desplazamiento,90)
 personaje_abajo = girar_imagenes(personaje_desplazamiento,True,True)

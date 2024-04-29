@@ -1,8 +1,8 @@
 import pygame
 
 
-imagen_de_disparo =  r"C:\Users\matia\OneDrive\Escritorio\UTN\Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\nave\disparo.png"
-imagen_de_disparo_gigante = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\enemigos\disparo_madre.png"
+imagen_de_disparo =  r"cuatrimestre_1\carpeta_juego\imagenes\nave\disparo.png"
+imagen_de_disparo_gigante = r"cuatrimestre_1\carpeta_juego\imagenes\enemigos\disparo_madre.png"
 
 class Disparo(pygame.sprite.Sprite):
     def __init__(self, x, y,positivo_negativo,imagen,tamaño:tuple):

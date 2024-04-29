@@ -7,7 +7,7 @@ class Nivel2:
     def __init__(self):
         self.ancho_screen = 984
         self.largo_screen = 630
-        self.fondo_nivel = r"Curso_de_ingreso_PYTHON-main\ejercicios\cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel2.png"
+        self.fondo_nivel = r"cuatrimestre_1\carpeta_juego\imagenes\fondos de pantalla\nivel2.png"
         self.nivel = Nivel(self.ancho_screen, self.largo_screen, 60, 35, self.fondo_nivel,1)
         self.sprite_nave_enemigo = pygame.sprite.Group()
         self.sprite_nave_enemigo_disparo = pygame.sprite.Group()
@@ -24,7 +24,7 @@ class Nivel2:
             self.sprite_nave_enemigo.add(nave_enemiga)
 
         for i in range(self.cantidad_meteoritos):
-            meti = meterorito(self.ancho_screen, self.largo_screen)
+            meti = Meterorito(self.ancho_screen, self.largo_screen)
             self.sprite_meteorito.add(meti)
 
     def ejecutar_nivel(self):
@@ -51,7 +51,7 @@ class Nivel2:
 
             cantidad_de_meteoritos = len(self.sprite_meteorito)
             if cantidad_de_meteoritos < self.cantidad_meteoritos:
-                meti = meterorito(self.ancho_screen, self.largo_screen)
+                meti = Meterorito(self.ancho_screen, self.largo_screen)
                 self.sprite_meteorito.add(meti)
 
             self.nivel.nave.colisiones_nave_normal(self.sprite_nave_enemigo, 1)

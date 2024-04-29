@@ -1,0 +1,12 @@
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\bin\Debug\net8.0\biblioteca_1.deps.json
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\bin\Debug\net8.0\biblioteca_1.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\bin\Debug\net8.0\biblioteca_1.pdb
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.AssemblyInfoInputs.cache
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.AssemblyInfo.cs
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.csproj.CoreCompileInputs.cache
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.sourcelink.json
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\refint\biblioteca_1.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\biblioteca_1.pdb
+C:\Users\juan\Desktop\uni\cuatrimestre_2\2_clase\ejercicio_3\ConsoleApp1\biblioteca_1\obj\Debug\net8.0\ref\biblioteca_1.dll

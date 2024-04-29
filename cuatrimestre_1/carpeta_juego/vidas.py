@@ -2,7 +2,7 @@ import pygame
 
 class Vidas(pygame.sprite.Sprite):
     # Manejo las rutas de archivos
-    image_path = r"Curso_de_ingreso_PYTHON-main/ejercicios/cuatrimestre_1/carpeta_juego/imagenes/objetos/vida.png"
+    image_path = r"cuatrimestre_1\carpeta_juego\imagenes\objetos\vida.png"
     original_image = pygame.image.load(image_path)
     
     def __init__(self, x, y):
