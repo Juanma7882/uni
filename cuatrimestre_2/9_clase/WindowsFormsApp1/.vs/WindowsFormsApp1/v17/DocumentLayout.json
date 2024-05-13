@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\9_clase\\windowsformsapp1\\windowsformsapp1\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlistasuper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\frmaltamodificacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmaltamodificacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\frmlistasuper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmlistasuper.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\windowsformsapp1\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB20E64A-8421-4499-A245-1D395B38963F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmaltamodificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmListaSuper.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmListaSuper.Designer.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmListaSuper.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:36:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListaSuper.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmListaSuper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T20:00:19.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmListaSuper.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmListaSuper.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmListaSuper.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:12:26.194Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAltaModificacion.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:34:06.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:06:38.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAltaModificacion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmAltaModificacion.Designer.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmAltaModificacion.Designer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:10:18.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAltaModificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmAltaModificacion.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmAltaModificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmAltaModificacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:31:28.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,6 +17,8 @@ namespace LaCentralita
             Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
             Provincial l4 = new Provincial(Provincial.Franja.Franja_3, l2);
 
+
+
             // Las llamadas se irán registrando en la Centralita.
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
             c.Llamadas.Add(l1);

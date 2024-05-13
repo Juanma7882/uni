@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,60 +10,97 @@ using static CentralTelefonica.Llamada;
 namespace CentralTelefonica
 {
 
-    public class Centralita
+    public class Centralita 
     {
         private List<Llamada> listaDeLLamadas;
         protected string razonSocial;
-
+        
         public List<Llamada> Llamadas
         {
             get { return listaDeLLamadas; }
         }
 
-        public float GananciaPorLocal
+
+        public float GanaciaPorLocal
         {
             get
             {
-                float ganancia = 0;
-
-                foreach (var llamada in listaDeLLamadas)
-                {
-                    if (llamada is Local)
-                    {
-                        //porque se llama de esta forma ?????????????
-                        Local local = (Local)llamada;
-                        ganancia += local.costollamada;
-                    }
-                }
-                return ganancia;
+                return CalcularGanancia(TipoLlamada.Local);
             }
         }
-
-        public float GananciaPorProvincial
+        public float GanaciaPorProvincial
         {
             get
             {
-                float ganancia = 0;
-
-                foreach (var llamada in listaDeLLamadas)
-                {
-                    if (llamada is Provincial)
-                    {
-                        Provincial provincia = (Provincial)llamada;
-                        ganancia += provincia.costollamada;
-                    }
-                }
-                return ganancia;
+                return CalcularGanancia(TipoLlamada.Provincial);
+            }
+        }
+        public float GanaciaPorTotal
+        {
+            get
+            {
+                return CalcularGanancia(TipoLlamada.Todas);
             }
         }
 
-        public float GananciaPorTotal
-        {
-            get { return this.GananciaPorProvincial + this.GananciaPorLocal; }
-        }
+
+        //public float GananciaPorLocal
+        //{
+        //    get
+        //    {
+        //        return CalcularGanancia(TipoLlamada.Local);
+        //    }
+        //}
+
+        //public float GananciaPorLocal { get => CalcularGanancia(TipoLlamada.Local); }
+        //public float GananciaPorLocal { get { return CalcularGanancia(TipoLlamada.Local); } }
+
+        //public float GananciaPorLocal
+        //{
+        //    get
+        //    {
+        //        float ganancia = 0;
+
+        //        foreach (var llamada in listaDeLLamadas)
+        //        {
+        //            if (llamada is Local)
+        //            {
+        //                //porque se llama de esta forma ?????????????
+        //                Local local = (Local)llamada;
+        //                ganancia += local.costollamada;
+        //            }
+        //        }
+        //        return ganancia;
+        //    }
+        //}
+
+        //public float GananciaPorProvincial
+        //{
+        //    get
+        //    {
+        //        float ganancia = 0;
+
+        //        foreach (var llamada in listaDeLLamadas)
+        //        {
+        //            if (llamada is Provincial)
+        //            {
+        //                Provincial provincia = (Provincial)llamada;
+        //                ganancia += provincia.costollamada;
+        //            }
+        //        }
+        //        return ganancia;
+        //    }
+        //}
 
 
-        //no pude hacer desaparecer el verde
+
+        //public float GananciaPorTotal
+        //{
+        //    get { return this.GananciaPorProvincial + this.GananciaPorLocal; }
+        //}
+
+
+        ////no pude hacer desaparecer el verde
         public Centralita()
         {
             this.listaDeLLamadas = new List<Llamada>();
@@ -74,52 +112,97 @@ namespace CentralTelefonica
             {
                 nombreEmpresa = "el nombre es nulo";
             }
-            
-            this.razonSocial = nombreEmpresa;
-        }
+            else
+            {
+                this.razonSocial = nombreEmpresa;
+            }
+        } 
 
+        //private float CalcularGanancia(TipoLlamada tipo)
+        //{
+        //    //if (tipo == TipoLlamada.Local)
+        //    //{
+        //    //    return this.GananciaPorLocal;
+        //    //}
+        //    //if (tipo == TipoLlamada.Provincial)
+        //    //{
+        //    //    return this.GananciaPorProvincial;
+        //    //}
+        //    //else
+        //    //{
+        //    //    return this.GananciaPorTotal;
+        //    //}
+
+        //    switch (tipo)
+        //    {
+        //        case TipoLlamada.Local:
+        //            return  this.GananciaPorLocal;
+        //        case TipoLlamada.Provincial:
+        //            return this.GananciaPorProvincial;
+        //        default:
+        //            return this.GananciaPorTotal;
+
+        //            //cualquiera de los 2 esta bien 
+
+        //            //case TipoLlamada.Todas:
+        //            //    return this.GananciaPorTotal;
+        //    }
+
+        //}
         private float CalcularGanancia(TipoLlamada tipo)
         {
-            //if (tipo == TipoLlamada.Local)
-            //{
-            //    return this.GananciaPorLocal;
-            //}
-            //if (tipo == TipoLlamada.Provincial)
-            //{
-            //    return this.GananciaPorProvincial;
-            //}
-            //else
-            //{
-            //    return this.GananciaPorTotal;
-            //}
+            ///Estas son variables q declaro en cero donde voy a acumular las ganancias
+            float gananciaLocal = 0;
+            float gananciaProvincial = 0;
 
-            switch (tipo) 
+            ///Recorro la lista de llamadas
+
+            foreach (var llamada in listaDeLLamadas)
             {
-                case TipoLlamada.Local:
-                    return this.GananciaPorLocal;
-                case TipoLlamada.Provincial:
-                    return this.GananciaPorProvincial;
-                default:
-                    return this.GananciaPorTotal;
+                ///Si es una llamada de tipo local
+                if (llamada is Local)
+                {
+                    ///Lo sumo a la variable GananciaLocal 
+                    gananciaLocal += ((Local)llamada).costollamada;
+                }
 
-                //cualquiera de los 2 esta bien 
-
-                //case TipoLlamada.Todas:
-                //    return this.GananciaPorTotal;
-
+                ///Si es una llamada de tipo provincial
+                if (llamada is Provincial)
+                {
+                    ///Lo sumo a la variable GananciaProvincial
+                    gananciaProvincial += ((Provincial)llamada).costollamada;
+                }
 
             }
 
+            ///Después de que recorro la lista de llamadas uso el parámetro "tipo" para verificar el tipo de llamada
+            ///Y retorno el valor que le corresponda 
 
+            if (tipo == TipoLlamada.Local)
+            {
+                return gananciaLocal;
+            }
+
+            else if (tipo == TipoLlamada.Provincial)
+            {
+                return gananciaProvincial;
+            }
+
+            else
+            {
+                ///Si me pide la ganancia total retorno la suma entre las ganancias de los dos tipos de llamada
+                return gananciaLocal + gananciaProvincial;
+            }
         }
 
+
         public string Mostrar()
-        {
+            {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Razon social: {this.razonSocial}");
-            sb.AppendLine($"Ganancia Total: {this.GananciaPorTotal}");
-            sb.AppendLine($"Ganancia Local: {this.GananciaPorLocal}");
-            sb.AppendLine($"Ganancia Provincial: {this.GananciaPorProvincial}");
+            sb.AppendLine($"Ganancia Total: {GanaciaPorTotal}");
+            sb.AppendLine($"Ganancia Local: {GanaciaPorLocal}");
+            sb.AppendLine($"Ganancia Provincial: {GanaciaPorProvincial}");
 
             foreach (var llamada in listaDeLLamadas)
             {
@@ -140,5 +223,7 @@ namespace CentralTelefonica
             }
 
         }
+
     }
+
 }

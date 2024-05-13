@@ -610,7 +610,8 @@ def stark_marvel_app_5():
         ##///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         elif impresion == "O":
             lista_de_tipos_set = obtener_lista_de_tipos(lista_heroes, "inteligencia")
-            # print(obtener_heroes_por_tipo(lista_heroes, lista_de_tipos_set, "inteligencia"))a
+            # print(obtener_heroes_por_tipo(lista_heroes, lista_de_tipos_se
+            # t, "inteligencia"))a
             
             f = obtener_heroes_por_tipo(lista_heroes, lista_de_tipos_set, "inteligencia")
             print("-" * 52)

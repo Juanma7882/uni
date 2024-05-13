@@ -8,6 +8,7 @@ namespace biblioteca
         public short cantidadRuedas;
         public short cantidadPuertas;
         public Colores color;
+
         public VehiculoTerrestre(short cantidad_ruedas , short cantidad_puertas, Colores colorPrincipal)
         {
             this.cantidadRuedas = cantidad_ruedas;
@@ -32,7 +33,8 @@ namespace biblioteca
         public void imprimir()
         {
             Console.WriteLine(mensaje()); 
-
         }
+
     }
+
 }

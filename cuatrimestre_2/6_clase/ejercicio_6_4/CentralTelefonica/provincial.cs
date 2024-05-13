@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace CentralTelefonica
+
 {
     public class Provincial : Llamada
     {
         protected Franja franjaHoraria;
-
         public enum Franja
         {
             Franja_1 = 99,
@@ -18,6 +18,10 @@ namespace CentralTelefonica
         }
 
         //public Franja franjaHoraria;
+        //public Provincial(Franja miFranja, Llamada llamada) : base(0, "", "")
+        //{
+        //    this.FranjaHoraria = miFranja;
+        //}
 
         public Provincial(Franja miFranja, Llamada llamada)
             : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
@@ -28,7 +32,6 @@ namespace CentralTelefonica
         {
             this.franjaHoraria = miFranja;
         }
-
 
         private float CalcularCosto()
         {

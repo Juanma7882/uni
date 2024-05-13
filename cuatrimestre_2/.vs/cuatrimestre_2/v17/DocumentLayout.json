@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8_clase\\centralita_2\\CentralTelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8_clase\\centralita_2\\CentralTelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8_clase\\centralita_2\\CentralTelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8_clase\\centralita_2\\CentralTelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\biblioteca\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +54,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "moto.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:35:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "provincial.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
+              "RelativeDocumentMoniker": "8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
+              "RelativeToolTip": "8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:35:09.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "llamada.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
+              "RelativeDocumentMoniker": "8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
+              "RelativeToolTip": "8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:34:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "centralita.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
+              "RelativeDocumentMoniker": "8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
+              "RelativeToolTip": "8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:34:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\local.cs",
+              "RelativeDocumentMoniker": "8_clase\\centralita_2\\CentralTelefonica\\local.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\local.cs",
+              "RelativeToolTip": "8_clase\\centralita_2\\CentralTelefonica\\local.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:12:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Ecolores.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs",
               "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs",
@@ -54,95 +131,69 @@
               "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\Ecolores.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T19:43:45.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T15:20:15.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "moto.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
-              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
-              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "auto.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\auto.cs",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\auto.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\auto.cs",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T18:48:20.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "camion.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
-              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
-              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:10:17.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
-              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
-              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:10:15.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
-              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
-              "RelativeToolTip": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T17:00:31.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dolar.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
-              "RelativeDocumentMoniker": "4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
-              "RelativeToolTip": "4_clase\\ejercicio_4_2\\biblioteca_4_2\\Dolar.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T18:06:38.836Z"
+              "WhenOpened": "2024-05-11T13:47:56.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs",
-              "RelativeDocumentMoniker": "4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs",
-              "RelativeToolTip": "4_clase\\ejercicio_4_1\\biblioteca_4_1\\Class1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\Class1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T18:06:13.791Z"
+              "WhenOpened": "2024-05-10T19:28:09.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs",
-              "RelativeDocumentMoniker": "4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs",
-              "RelativeToolTip": "4_clase\\ejercicio_4_1\\ejercicio_4_1\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "camion.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\biblioteca\\camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T17:02:39.273Z"
+              "WhenOpened": "2024-05-10T19:28:01.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ejercicio_6_1.csproj",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\ejercicio_6_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T19:27:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
+              "RelativeDocumentMoniker": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
+              "RelativeToolTip": "6_clase\\ejercicio_6_1\\ejercicio_6_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T18:49:12.319Z"
             }
           ]
         }

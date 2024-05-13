@@ -2,11 +2,13 @@
 
 namespace CentralTelefonica
 {
-    public class Llamada
+    public  class Llamada
     {
         public enum TipoLlamada
         {
-            Local, Provincial, Todas
+            Local,
+            Provincial,
+            Todas
         }
 
 

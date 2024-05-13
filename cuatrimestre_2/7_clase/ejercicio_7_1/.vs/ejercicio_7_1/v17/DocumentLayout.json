@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|solutionrelative:formas\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|solutionrelative:formas\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|solutionrelative:formas\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789996CB-88A1-4707-ADC0-CEA9B23D36B4}|formas\\formas.csproj|solutionrelative:formas\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12C412-A119-4A4B-87C4-1E4165F0D415}|ejercicio_7_1\\ejercicio_7_1.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\ejercicio_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A12C412-A119-4A4B-87C4-1E4165F0D415}|ejercicio_7_1\\ejercicio_7_1.csproj|solutionrelative:ejercicio_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "formas\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Cuadrado.cs",
+              "RelativeToolTip": "formas\\Cuadrado.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:26:49.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Circulo.cs",
+              "RelativeDocumentMoniker": "formas\\Circulo.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Circulo.cs",
+              "RelativeToolTip": "formas\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:25:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "formas\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Rectangulo.cs",
+              "RelativeToolTip": "formas\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:25:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Figura.cs",
+              "RelativeDocumentMoniker": "formas\\Figura.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\formas\\Figura.cs",
+              "RelativeToolTip": "formas\\Figura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:19:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\ejercicio_7_1\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio_7_1\\Program.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\7_clase\\ejercicio_7_1\\ejercicio_7_1\\Program.cs",
+              "RelativeToolTip": "ejercicio_7_1\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:14:13.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ejercicio_7_1/1.0.0": {
+        "dependencies": {
+          "formas": "1.0.0"
+        },
+        "runtime": {
+          "ejercicio_7_1.dll": {}
+        }
+      },
+      "formas/1.0.0": {
+        "runtime": {
+          "formas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicio_7_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "formas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

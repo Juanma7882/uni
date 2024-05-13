@@ -3,8 +3,15 @@
     "",
     "\\6_clase",
     "\\6_clase\\ejercicio_6_1",
-    "\\6_clase\\ejercicio_6_1\\biblioteca"
+    "\\6_clase\\ejercicio_6_1\\ejercicio_6_1",
+    "\\8_clase",
+    "\\8_clase\\centralita_2",
+    "\\8_clase\\centralita_2\\CentralTelefonica",
+    "\\8_clase\\centralita_2\\ejercicio_6_4",
+    "\\9_clase",
+    "\\9_clase\\WindowsFormsApp1",
+    "\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1"
   ],
-  "SelectedNode": "\\6_clase\\ejercicio_6_1\\biblioteca\\moto.cs",
+  "SelectedNode": "\\9_clase\\WindowsFormsApp1\\WindowsFormsApp1\\FrmListaSuper.cs",
   "PreviewInSolutionExplorer": false
 }
