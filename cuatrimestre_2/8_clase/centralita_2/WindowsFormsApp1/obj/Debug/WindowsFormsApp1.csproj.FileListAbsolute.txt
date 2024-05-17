@@ -9,3 +9,7 @@ C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\o
 C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLlamador.resources
+C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\juan\Desktop\uni\cuatrimestre_2\8_clase\centralita_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMostrar.resources

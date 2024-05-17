@@ -1,4 +1,6 @@
-﻿namespace WindowsFormsApp1
+﻿using System;
+
+namespace WindowsFormsApp1
 {
     partial class FrmListaSuper
     {
@@ -42,7 +44,7 @@
             this.lstObjetos.Name = "lstObjetos";
             this.lstObjetos.Size = new System.Drawing.Size(675, 524);
             this.lstObjetos.TabIndex = 0;
-            this.lstObjetos.SelectedIndexChanged += new System.EventHandler(this.lstObjetos_SelectedIndexChanged);
+            this.lstObjetos.SelectedIndexChanged += new System.EventHandler(this.lstObjetossele);
             // 
             // btnAgregar
             // 
@@ -88,6 +90,11 @@
             this.Text = "Lista del supermercado";
             this.ResumeLayout(false);
 
+        }
+
+        private void lstObjetossele(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

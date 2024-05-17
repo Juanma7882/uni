@@ -3,60 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmmostrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmllamador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\central2.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\central2.csproj|solutionrelative:ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmllamador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmllamador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\centraltelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\central2.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E6AD0F-7D45-4462-A077-6E05D1FECB31}|ejercicio_6_4\\central2.csproj|solutionrelative:ejercicio_6_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\classlibrary1\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\provincial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\classlibrary1\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\juan\\desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\classlibrary1\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\centraltelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\llamada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\frmllamador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\frmllamador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\classlibrary1\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE1DEBE-73F4-4ED6-85AE-BD4D5FA6E41F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\centraltelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\centralita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\windowsformsapp1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{39FA9857-E21C-4DF3-8227-6B6128E1D34C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+      "AbsoluteMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC2D31E-A811-4CFD-8B65-0A918A9556EE}|CentralTelefonica\\CentralTelefonica.csproj|solutionrelative:centraltelefonica\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +86,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "FrmMostrar.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmMostrar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmMostrar.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmMostrar.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmMostrar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:20:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "provincial.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\provincial.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\provincial.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\provincial.cs",
+              "RelativeToolTip": "ClassLibrary1\\provincial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "local.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\local.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\local.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\local.cs",
+              "RelativeToolTip": "ClassLibrary1\\local.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "llamada.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\llamada.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\llamada.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\llamada.cs",
+              "RelativeToolTip": "ClassLibrary1\\llamada.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "centralita.cs",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\centralita.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\centralita.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ClassLibrary1\\centralita.cs",
+              "RelativeToolTip": "ClassLibrary1\\centralita.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwGcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:55:16.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMostrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmMostrar.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmMostrar.cs",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmMostrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\FrmMostrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:17:32.991Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FrmLlamador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmLlamador.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmLlamador.cs",
@@ -83,141 +179,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T14:42:54.327Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAIAwwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T14:43:11.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Program.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:43:28.034Z"
+              "WhenOpened": "2024-05-09T14:43:28.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "FrmLlamador.Designer.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmLlamador.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmLlamador.Designer.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmLlamador.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\FrmLlamador.Designer.cs",
-              "ViewState": "AQIAAOoAAAAAAAAAAAAYwNMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAM4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T23:48:41.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmLlamador.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmLlamador.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\FrmLlamador.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\FrmLlamador.cs",
               "RelativeToolTip": "WindowsFormsApp1\\FrmLlamador.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwPQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T23:19:47.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.Designer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.Designer.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDgAAAAPAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAMwGMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:43:23.323Z"
+              "WhenOpened": "2024-05-09T14:43:23.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "provincial.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
               "RelativeDocumentMoniker": "CentralTelefonica\\provincial.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\provincial.cs",
               "RelativeToolTip": "CentralTelefonica\\provincial.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAjwEoAAAAfAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vw8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:06:57.71Z"
+              "WhenOpened": "2024-05-01T19:06:57.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "local.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\local.cs",
               "RelativeDocumentMoniker": "CentralTelefonica\\local.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\local.cs",
               "RelativeToolTip": "CentralTelefonica\\local.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAADwv0wAAAAfAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T23:51:48.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "centralita.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
               "RelativeDocumentMoniker": "CentralTelefonica\\centralita.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\centralita.cs",
               "RelativeToolTip": "CentralTelefonica\\centralita.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAArwDEAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T14:27:54.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ejercicio_6_4\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio_6_4\\Program.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\ejercicio_6_4\\Program.cs",
               "RelativeToolTip": "ejercicio_6_4\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAABLAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:06:49.115Z"
+              "WhenOpened": "2024-05-01T19:06:49.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "llamada.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
               "RelativeDocumentMoniker": "CentralTelefonica\\llamada.cs",
               "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\CentralTelefonica\\llamada.cs",
               "RelativeToolTip": "CentralTelefonica\\llamada.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAwwDUAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T19:58:52.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
@@ -226,17 +326,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T14:43:40.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.resx",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.resx",
-              "ToolTip": "C:\\Users\\juan\\Desktop\\uni\\cuatrimestre_2\\8_clase\\centralita_2\\WindowsFormsApp1\\Form1.resx",
-              "RelativeToolTip": "WindowsFormsApp1\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-05-09T14:43:25.393Z"
             }
           ]
         }

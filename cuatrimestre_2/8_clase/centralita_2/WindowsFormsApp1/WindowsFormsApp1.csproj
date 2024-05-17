@@ -72,6 +72,9 @@
     <EmbeddedResource Include="FrmLlamador.resx">
       <DependentUpon>FrmLlamador.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrar.resx">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -95,13 +98,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CentralTelefonica\CentralTelefonica.csproj">
-      <Project>{0ac2d31e-a811-4cfd-8b65-0a918a9556ee}</Project>
-      <Name>CentralTelefonica</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ejercicio_6_4\central2.csproj">
-      <Project>{97e6ad0f-7d45-4462-a077-6e05d1fecb31}</Project>
-      <Name>central2</Name>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{6ee1debe-73f4-4ed6-85ae-bd4d5fa6e41f}</Project>
+      <Name>ClassLibrary1</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

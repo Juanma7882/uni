@@ -16,7 +16,7 @@ namespace LaCentralita
             Provincial l2 = new Provincial("Morón", Provincial.Franja.Franja_1, 21, "Bernal");
             Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
             Provincial l4 = new Provincial(Provincial.Franja.Franja_3, l2);
-
+            
 
             c = c + l1;
             c = c + l2;
